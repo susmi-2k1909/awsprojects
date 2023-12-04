@@ -1,1 +1,1 @@
-# awsprojects
+Creating a scalable and robust web application involves architecting it in a way that ensures performance, reliability, and scalability. One of the widely adopted approaches is the Three-Tier Architecture, which separates an application into three distinct layers: presentation, logic, and data. Amazon Web Services (AWS) offers a range of services that perfectly align with this architecture, allowing for the seamless deployment and management of each tier. Let's delve into how you can implement a Three-Tier Architecture web application on AWS.
